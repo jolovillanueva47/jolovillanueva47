@@ -1,4 +1,4 @@
-### Hi there, I'm Jolo - aka [Jolobot][https://www.jolobot.com] 👋
+### Hi there, I'm Jolo - aka [Jolobot](https://www.jolobot.com) 👋
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fwww.jolobot.com%2F)
 
@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jolobot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.jolobot.com]
-[<img align="left" alt="Jolobot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][http://linkedin.com/in/jolovillanueva]
-[<img align="left" alt="Jolobot | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/jolovillanueva47]
+[<img align="left" alt="jolobot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.jolobot.com)
+[<img align="left" alt="Jolobot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/jolovillanueva)
+[<img align="left" alt="Jolobot | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jolovillanueva47)
 
 <br />
 ### Languages and Tools:
