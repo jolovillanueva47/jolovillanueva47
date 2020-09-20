@@ -28,9 +28,7 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=orange&color=2bbc8a)
 
-<br />
-
-## :bar_chart: GitHub Stats
+### :bar_chart: GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jolovillanueva47&show_icons=true&theme=synthwave" alt="Jolo's GitHub Stats" />
 
