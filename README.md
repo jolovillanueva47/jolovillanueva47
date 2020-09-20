@@ -32,5 +32,5 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  ![Jolobot's github stats](https://github-readme-stats.vercel.app/api?username=jolovillanueva47&show_icons=true&theme=radical)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jolovillanueva47&show_icons=true&theme=synthwave" alt="Jolo's GitHub Stats" />
 </details>
