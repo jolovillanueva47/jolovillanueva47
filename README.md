@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+### :wrench: Languages and Tools:
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -30,7 +30,7 @@
 
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jolovillanueva47&show_icons=true&theme=synthwave" alt="Jolo's GitHub Stats" />
-</details>
+## :bar_chart: GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jolovillanueva47&show_icons=true&theme=synthwave" alt="Jolo's GitHub Stats" />
+
