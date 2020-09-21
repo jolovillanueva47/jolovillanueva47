@@ -43,7 +43,7 @@
  > 
 > 📦 53.9 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories
  > 
@@ -104,10 +104,6 @@ JavaScript               1 repos             ██████░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/jolovillanueva47/jolovillanueva47/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
