@@ -32,7 +32,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jolovillanueva47&show_icons=true&theme=synthwave" alt="Jolo's GitHub Stats" />
 
-### Wakatime
+### :hourglass_flowing_sand: Wakatime
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
