@@ -32,3 +32,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jolovillanueva47&show_icons=true&theme=synthwave" alt="Jolo's GitHub Stats" />
 
+### Wakatime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
