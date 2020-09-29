@@ -78,17 +78,16 @@ Sunday       1 commits      ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     56 mins             ███████████████████░░░░░░   77.42% 
-Markdown                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   22.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jolovillanueva47         1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
