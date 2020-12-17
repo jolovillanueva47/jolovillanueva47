@@ -47,7 +47,7 @@
  > 
 > 📜 8 Public Repositories 
  > 
-8 Private Repository 
+> 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
