@@ -6,7 +6,11 @@
 
 - 🔭 I’m currently searching for a new company to work
 - 🌱 I’m currently reading on Python then maybe Ruby
-- 🥅 2020 Goals: Enhance my development skills and to find a new company
+- 🥅 2021 Goals:
+    - Find a new company to work for
+    - Finish 100 days of Python
+    - Finish 10 Udemy Courses
+    - Read 5 Books
 - ⚡ Fun fact: I love to read books :book: and play Mobile Legends :video_game:
 - :basketball: A Lakers Fan. Mamba Mentality :snake:
 
