@@ -39,7 +39,7 @@
 ### :hourglass_flowing_sand: Wakatime
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -82,17 +82,16 @@ Sunday       1 commits      ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   59 mins             ██████████████████████░░░   91.24% 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.76%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-100daysofpython          1 hr 5 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
