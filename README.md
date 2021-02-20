@@ -43,13 +43,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 7 Contributions in the Year 2021
+> 🏆 16 Contributions in the Year 2021
  > 
-> 📦 54.4 kB Used in Github's Storage 
+> 📦 57.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -82,16 +82,21 @@ Sunday       1 commits      ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     2 hrs 53 mins       ████████████████████░░░░░   80.39% 
+CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 36 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+jolobot-hugo             3 hrs               █████████████████████░░░░   83.53% 
+toha                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
