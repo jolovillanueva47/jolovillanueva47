@@ -43,7 +43,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 28 Contributions in the Year 2021
+> 🏆 29 Contributions in the Year 2021
  > 
 > 📦 57.8 kB Used in Github's Storage 
  > 
@@ -82,16 +82,16 @@ Sunday       1 commits      ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 28 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+100daysofpython          2 hrs 28 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
