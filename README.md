@@ -39,7 +39,7 @@
 ### :hourglass_flowing_sand: Wakatime
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -107,6 +107,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2021
+ Last Updated on 06/07/2021
 <!--END_SECTION:waka-->
 
