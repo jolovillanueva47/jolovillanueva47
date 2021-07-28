@@ -82,16 +82,17 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 14 mins        █████████████░░░░░░░░░░░░   53.64% 
+CSS                      1 hr 4 mins         ███████████░░░░░░░░░░░░░░   46.36%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 19 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+100daysofpython          2 hrs 19 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -107,6 +108,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2021
+ Last Updated on 28/07/2021
 <!--END_SECTION:waka-->
 
