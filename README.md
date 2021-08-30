@@ -82,17 +82,16 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████░░░░   83.57% 
-Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.43%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-goodreads-list-scraper   6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -109,6 +108,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2021
+ Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
 
