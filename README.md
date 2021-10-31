@@ -45,7 +45,7 @@
 
 > 🏆 56 Contributions in the Year 2021
  > 
-> 📦 65.0 kB Used in GitHub's Storage 
+> 📦 65.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,6 +110,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
