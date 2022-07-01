@@ -84,16 +84,17 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     5 mins              ███████████████████████░░   94.56% 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.44%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+learn-javascript         5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -110,6 +111,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2022 01:29:49 UTC
+ Last Updated on 01/07/2022 01:49:56 UTC
 <!--END_SECTION:waka-->
 
