@@ -39,8 +39,6 @@
 ### :hourglass_flowing_sand: Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2018%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -105,6 +103,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 00:58:30 UTC
+ Last Updated on 11/04/2024 00:59:16 UTC
 <!--END_SECTION:waka-->
 
