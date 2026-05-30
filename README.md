@@ -39,6 +39,8 @@
 ### :hourglass_flowing_sand: Wakatime
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -53,6 +55,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+🌆 Daytime                78 commits          ███████████░░░░░░░░░░░░░░   42.39 % 
+🌃 Evening                56 commits          ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Tuesday                  34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Friday                   55 commits          ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Sunday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -66,6 +107,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 03:35:52 UTC
+ Last Updated on 30/05/2026 03:24:49 UTC
 <!--END_SECTION:waka-->
 
